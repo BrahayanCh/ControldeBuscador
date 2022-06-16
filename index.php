@@ -20,6 +20,7 @@ $result=mysqli_query($conexion,$sql);
   integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
   crossorigin="anonymous"></script>
     <script src="select2/select2.min.js"></script>
+	
 </head>
 <body>
 	<section style="text-align: center;" >
